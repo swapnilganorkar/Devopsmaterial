@@ -1,0 +1,26 @@
+ 1  cd /root/.ssh
+    2  ls
+    3  vi authorized_keys
+    4  cat authorized_keys
+    5  ssh root@172.31.16.58
+    6  cd ..
+    7  ssh root@172.31.16.58
+    8  cd /root/.ssh
+    9  ls
+   10  vi authorized_keys
+   11  cat authorized_keys
+   12  cd ..
+   13  yum git install -y
+   14  yum git install -y
+   15  yum  install tree -y
+   16  yum git install -y
+   17  mkdir -p /opt/devopsmatrial
+   18  ls
+   19  cd /opt/devopsmatrial/
+   20  ls
+   21  yum git install -y
+   22  sudo
+   23  sudo yum install git -y
+   24  git init
+   25  history
+
